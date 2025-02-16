@@ -7,7 +7,7 @@
 🎓 **Electrical Engineering Student** – *Universitas Sriwijaya* (Telecommunications & Information Technology)  
 💡 Passionate about **Machine Learning, AI, and Full-Stack Development**  
 🌞 Experienced in **Solar PV Installation & Renewable Energy Projects**  
-🛠 Active in **Society of Renewable Energy (SRE) & MyUnsri Organization**  
+🛠 Active in **Society of Renewable Energy (SRE) & Google Developer Group (GDG)**  
 
 ---
 
