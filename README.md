@@ -41,10 +41,14 @@
 ---
 
 ## **📝 Certifications**  
-✔ **MSIB Batch 7 - Data Science Program**  
-✔ **DSBIZ Business Professional**  
-✔ **MySQL Intermediate - HackerRank**  
+✔ **Data Science MSIB Batch 7 - BISA AI Academy**  
+✔ **DSBIZ Data Science for Business Professional - CertNexus**  
+✔ **Machine Learning untuk Pemula - Dicoding Academy**
+✔ **MySQL Intermediate - HackerRank**
+✔ **Fortinet Certfified Associate Cybersecurity - Fortinet Training Institue**  
 ✔ **Analisis Data dengan Python - Dicoding Academy**  
+✔ **Memulai Pemrograman dengan Python - Dicoding Academy**  
+✔ **Cloud Practitioner Essentials - Dicoding Academy**
 
 ---
 
