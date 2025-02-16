@@ -56,8 +56,8 @@
 ---
 
 ## **📧 Let's Connect!**  
-📌 **LinkedIn:** www.linkedin.com/in/haeqal-salehudin-8a5655246(#)  
+📌 **LinkedIn:** www.linkedin.com/in/haeqal-salehudin-8a5655246
 📌 **Email:** salehudinhaeqal@gmail.com  
-📌 **GitHub:** https://github.com/salehudinhaeqal(#)  
+📌 **GitHub:** https://github.com/salehudinhaeqal
 
 ---
