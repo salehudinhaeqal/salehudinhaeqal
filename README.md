@@ -23,8 +23,8 @@
 ✔ **Specialties:** Computer Vision, NLP, Deep Learning  
 
 ### **🌐 Full-Stack Development**  
-✔ **Frontend:** React.js  
-✔ **Backend:** Flask 
+✔ **Frontend:** React.js HTML CSS 
+✔ **Backend:** Flask JavaScript
 
 ### **⚡ Renewable Energy**  
 ✔ **Solar PV System Design & Installation**  
